@@ -32,6 +32,7 @@
                               <a href="" class="text-reset">
                                 <h5 class="card-title mb-3">Product name</h5>
                               </a>
+
                               <button type="button" id="update-cart" class="btn btn-primary">Add to Cart</button> <button type="button" class="btn btn-info">Buy Now</button>
                             </a>
                             <h6 class="mb-3 mt-2">
