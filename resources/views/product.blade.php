@@ -30,7 +30,7 @@
                             </div>
                             <div class="card-body">
                               <a href="" class="text-reset">
-                                <h5 class="card-title mb-3">Product name</h5>
+                                <h5 class="card-title mb-3">Product name here</h5>
                               </a>
 
                               <button type="button" id="update-cart" class="btn btn-primary">Add to Cart</button> <button type="button" class="btn btn-info">Buy Now</button>
