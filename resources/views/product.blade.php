@@ -60,7 +60,7 @@
                             </div>
                             <div class="card-body">
                               <a href="" class="text-reset">
-                                <h5 class="card-title mb-3">Product name</h5>
+                                <h5 class="card-title mb-3">Product Title</h5>
                               </a>
                               <button type="button" class="btn btn-primary">Add to Cart</button> <button type="button" class="btn btn-info">Buy Now</button>
                             </a>
