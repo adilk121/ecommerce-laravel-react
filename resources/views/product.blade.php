@@ -50,7 +50,7 @@
                               <a href="#!">
                                 <div class="mask">
                                   <div class="d-flex justify-content-start align-items-end h-100">
-                                    <h5><span class="badge bg-success ms-2">Eco</span></h5>
+                                    <h5><span class="badge bg-success ms-2">Ecom</span></h5>
                                   </div>
                                 </div>
                                 <div class="hover-overlay">
