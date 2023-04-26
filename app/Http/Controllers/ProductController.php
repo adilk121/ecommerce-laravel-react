@@ -7,6 +7,7 @@ use App\Models\Product;
 
 class ProductController extends Controller
 {
+    //header
     /**
      * Write code on Method
      *
